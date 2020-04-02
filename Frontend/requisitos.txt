@@ -1,0 +1,8 @@
+Cadastrar Tarefas
+Cadastrar usuário
+Mostrar Tarefas lista de cards vs tabela
+Tarefas:
+    Categoria,Data,Prioridade,Titulo,Parent,Estado
+    
+
+
